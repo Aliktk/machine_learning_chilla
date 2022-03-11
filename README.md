@@ -1,25 +1,24 @@
-# Python_Chilla_with_Baba_Aammar
-## Python for Data Science
+# Machine_Learning_Chilla_with_Baba_Aammar
+## Machine Learning
 
 # Student Details
-+ Title : "Mr"
-+ Name : "Ali Nawaz"
-+ email : "nawazktk99@gmail.com"
-+ Research Profile : [Research Gate](https://www.researchgate.net/profile/Ali-Nawaz-14),  [Google Scholar](https://scholar.google.com.br/citations?hl=en&user=oFzPPSMAAAAJ)
-+ Artificial Intelliegence Engineer at [XYLEXA](https://www.xylexa.com)
-+ **Resources :** [YouTube Link](https://www.youtube.com/watch?v=QvPekMN4F0w&list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI&ab_channel=Codanics)
-+ Instructor : Dr. Muhammad Ammar Tufail
++ **Name :** "Ali Nawaz"
++ **email :** "nawazktk99@gmail.com", "ali.nawaz@xylexa.com" 
++ **Research Profile :** [Research Gate](https://www.researchgate.net/profile/Ali-Nawaz-14),  [Google Scholar](https://scholar.google.com.br/citations?hl=en&user=oFzPPSMAAAAJ)
++ **Status :** Artificial Intelliegence Engineer at [XYLEXA](https://www.xylexa.com)
++ **Resources :** [YouTube Link](https://youtube.com/playlist?list=PL9XvIvvVL50HHzaLPtFBOuikAWa0JdhMW)
++ **Instructor :** Dr. Muhammad Ammar Tufail
 
 # Overview
-This repository contains practice materials on Python, used to deliver online training course. The course was sponsered by **[codenics](http://codanics.com/)** and **[Scholership Network](https://www.facebook.com/groups/scholarships.pk/)**. **Pakistan**
-This course is for everyone who want to make their carrer/graphs/scientific Publication Chart in data science. The instructor was Dr. Ammar Tufail.
+This repository contains practice materials on Machine Learning with Python, used to deliver online training course. The course was sponsered by **[codenics](http://codanics.com/)** and **[Scholership Network](https://www.facebook.com/groups/scholarships.pk/)**. **Pakistan**
+This course is for everyone who want to make their carrer in Machine Learning. The instructor was **Dr. Ammar Tufail**.
 
 __Objectives__: 
   1. Expand the cohort Students with intermediate-level Python skills; 
-  2. contribute to quality of Data Scientist  Resources in Pakistan; and 
-  3. Non computer back ground can expand the graphs/chart for their publication using code and libraries.
+  2. Contribute to quality of Data Scientist  Resources in Pakistan; 
+  3. Non computer back ground can expand the Machine Learning Algorithms for their Papers using different libraries and modeling.
 
-__Prerequisites and format__: No prior coding experience is needed. The sessions will comprise short lecture-style teaching by the instructor, Interactive session and assignmnets session where every participants write code on their own laptops and show thier output.
+__Prerequisites and format__: Basic of Python programming language and Pandas, Numpy matplot experience is needed. The sessions will comprise short lecture-style teaching by the instructor, Interactive session and assignmnets session where every participants write code on their own laptops and show thier output.
 
 __Participant outcomes__: With no coding knowledge before the course, participants should be able to access and combine a diverse set of datasets, conduct data exploration and visualization, utilize Python libraries for demographic, image data and machine learning, and be able to self-teach next steps in their specialized domain.
 
@@ -34,8 +33,8 @@ Two methods:
 
 **How To Make Vir-Enviroment using conda**
 ```python
-conda create -n python-chilla python=3.6
-conda activate python-chilla
+conda create -n ml-chilla python=3.6
+conda activate ml-chilla
 ```
 Install the required libraries by using folllowing commands.
 ```python
@@ -43,21 +42,14 @@ pip install -r /path/to/requirements.txt
 ```
 
 # Course Schedule
-The course Started on 1st of New year 2022, Saturday Night on 9.30pm.
+The course Started on 11th March 2022, Frinday Night on 9.30pm.
 1. Fall 2022 8-week course
-2. Jan 2022 40-days course
+2. 11th March 2022 40-days course
 3. **Note:** The Week will be 5 Days in this Chilla
 
 |Week | Mode | Topics|
 |----|----|----|
 |**[Week 1](https://github.com/Aliktk/Python_Chilla/tree/main/Python_hands_on)**| Zoom |  Installation of VS Code, First Line of code, Libraries, Python syntax, intro to control flow including Weekly Workshop. |
-|**[Week 2](https://github.com/Aliktk/Python_Chilla/tree/main/graphs)** | Zoom | Ploting, Graphs, Data aquired, Students data, Different graphs ploting including Weekly Workshop on Github(pro). |
-|**[Week 3](https://github.com/Aliktk/Python_Chilla/tree/main/Python_hands_on)**| Zoom | intro to Pandas and Numpy, Further data structures, control flow, file handling, Vs Code |
-|**[Week 4](https://github.com/Aliktk/Python_Chilla/tree/main/Python_hands_on)**| Zoom | Data wrangling and analysis using Pandas and Numpy. |
-|**[Week 5](https://github.com/Aliktk/Python_Chilla/tree/main/Python_hands_on)**| Zoom | EDA, Data wrangling and analysis II. |
-|**[Week 6](https://github.com/Aliktk/Python_Chilla/tree/main/machine_learning)**| Zoom | Basics of Machine learning Algorithms, Supervised and Un-supervised, Classification, Clustring. |
-|**[Week 7](https://github.com/Aliktk/Python_Chilla/tree/main/cv_with_python_using%20opencv)**| Zoom | Basic OpenCv, Market Yourself, Interview Prepartion, Canva. |
-|**[Week 8]()**| Zoom | Final Resolution of the End Day and Gup Shup :) |
 
 + Materials in the repos can be freely with credit and giving start and fork operation.
 + This Repo will be refine with time.
